@@ -13,7 +13,7 @@
     width: 100%;
     display: flex;
     justify-content: left;
-    background-image: url(images/12.png);
+    background-image: url(12.png);
     color: white;
     font-weight: 300;
 }
@@ -240,7 +240,7 @@
 }
 /* footer start */
 .footer {
-    background-image: url(images/12.png);
+    background-image: url(12.png);
     /* display: flex; */
     color: #fff;
     height: 600px;
